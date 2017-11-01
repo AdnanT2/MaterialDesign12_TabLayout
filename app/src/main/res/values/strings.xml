@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MaterialDesign12(TabLayout)</string>
+    <string name="item_one">Item One</string>
+    <string name="item_two">Item Two</string>
+    <string name="item_three">Item Three</string>
+</resources>
